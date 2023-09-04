@@ -5,7 +5,7 @@ From intricately handling data preprocessing to effectively addressing class imb
 
 2. Handled data preprocessing, ensured data normalization, and managed class distribution.
 
-3.Trained a classifier, such as logistic regression or random forests, to identify fraudulent activity.
+3.  Trained a classifier, such as logistic regression or random forests, to identify fraudulent activity.
 
 4. Assessed model performance through precision, recall, and F1-score evaluation for robust analysis.
 
